@@ -30,7 +30,7 @@ Drag it, fold it, roll it up – and sweep your messy desktop icons underneath i
 > where they hide.
 
 <div align="center">
-<img src="docs/images/demo-fold.jpg" width="32%" alt="Folding the rug"> <img src="docs/images/demo-roll.jpg" width="32%" alt="Rolled-up rug"> <img src="docs/images/demo-night.jpg" width="32%" alt="Night lighting">
+<img src="docs/images/demo-fold.png" width="32%" alt="Folding the rug"> <img src="docs/images/demo-rolld.png" width="32%" alt="Rolled-up rug"> 
 <br><sub>Simulated renders produced by <code>Kilim --selftest</code>: folding, rolling and night lighting.</sub>
 </div>
 
