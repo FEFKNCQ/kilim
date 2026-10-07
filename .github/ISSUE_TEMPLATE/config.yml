@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question / discussion
+    url: https://github.com/yusufyilmazfr/kilim/discussions
+    about: Ask questions and share ideas here.
+  - name: Sponsor the project
+    url: https://github.com/sponsors/yusufyilmazfr
+    about: Support Kilim's development.

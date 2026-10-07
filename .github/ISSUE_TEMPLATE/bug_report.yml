@@ -1,0 +1,33 @@
+name: Bug report
+description: Something does not work as expected
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, what happened instead?
+    validations: { required: true }
+  - type: input
+    id: version
+    attributes:
+      label: Kilim version
+      placeholder: "1.0.0 (Finder → Get Info on Kilim.app)"
+    validations: { required: true }
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version and Mac model
+      placeholder: "macOS 15.1, MacBook Pro M3"
+    validations: { required: true }
+  - type: dropdown
+    id: displays
+    attributes:
+      label: Number of displays
+      options: ["1", "2", "3 or more"]
+  - type: textarea
+    id: log
+    attributes:
+      label: Log (optional)
+      description: "Launch with `KILIM_LOG=1 /Applications/Kilim.app/Contents/MacOS/Kilim` and paste /tmp/kilim.log."
+      render: shell

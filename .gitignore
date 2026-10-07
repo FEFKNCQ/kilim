@@ -1,0 +1,17 @@
+# SwiftPM / build output
+.build/
+.build-x86/
+build/
+dist/
+.swiftpm/
+*.xcodeproj
+DerivedData/
+
+# macOS / editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local debug output
+*.log

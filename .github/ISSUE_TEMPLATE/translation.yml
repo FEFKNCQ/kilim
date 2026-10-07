@@ -1,0 +1,14 @@
+name: Translation fix / new language
+description: Report a wrong translation or request a language
+labels: [translation]
+body:
+  - type: input
+    id: lang
+    attributes:
+      label: Language
+    validations: { required: true }
+  - type: textarea
+    id: text
+    attributes:
+      label: Current text and your suggested text
+    validations: { required: true }
