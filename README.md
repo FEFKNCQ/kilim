@@ -82,7 +82,7 @@ You can also drag an image onto the menu‑bar icon.
 ### One‑line install (recommended)
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/yusufyilmazfr/kilim/main/Scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/M49P6BK/kilim/main/Scripts/install.sh | bash
 ```
 
 This downloads the latest release, verifies its checksum, copies **Kilim.app** to `/Applications`, clears the macOS
@@ -106,7 +106,7 @@ Kilim lives in the menu bar; there is no Dock icon.
 Requirements: macOS 13+ and the Xcode Command Line Tools (`xcode-select --install`). Full Xcode is **not** required.
 
 ```sh
-git clone https://github.com/yusufyilmazfr/kilim.git
+git clone https://github.com/M49P6BK/kilim.git
 cd kilim
 make run          # builds build/Kilim.app and launches it
 ```
@@ -185,12 +185,12 @@ A short tour – see [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for the deta
 
 Contributions of all kinds are welcome – new rug patterns, translations, bug fixes, docs.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) and our [Code of Conduct](CODE_OF_CONDUCT.md) first.
-Good places to start are issues labelled [`good first issue`](https://github.com/yusufyilmazfr/kilim/labels/good%20first%20issue).
+Good places to start are issues labelled [`good first issue`](https://github.com/M49P6BK/kilim/labels/good%20first%20issue).
 
 ## Support & sponsorship
 
-- **Bugs & feature requests:** [open an issue](https://github.com/yusufyilmazfr/kilim/issues/new/choose)
-- **Questions & ideas:** [GitHub Discussions](https://github.com/yusufyilmazfr/kilim/discussions)
+- **Bugs & feature requests:** [open an issue](https://github.com/M49P6BK/kilim/issues/new/choose)
+- **Questions & ideas:** [GitHub Discussions](https://github.com/M49P6BK/kilim/discussions)
 - **Security:** see [SECURITY.md](SECURITY.md)
 - **More ways to get help:** [SUPPORT.md](SUPPORT.md)
 - **Sponsor:** Kilim is free and always will be. If it made you smile, you can support its development on
